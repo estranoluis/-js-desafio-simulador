@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background-color: rgb(23, 75, 97);
+    background-image: url(media/background.jpg);
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
